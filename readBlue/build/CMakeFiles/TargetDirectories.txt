@@ -1,0 +1,3 @@
+/home/kristtopher/CLionProjects/readBlue/build/CMakeFiles/rebuild_cache.dir
+/home/kristtopher/CLionProjects/readBlue/build/CMakeFiles/readBlue.dir
+/home/kristtopher/CLionProjects/readBlue/build/CMakeFiles/edit_cache.dir

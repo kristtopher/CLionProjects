@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristtopher/CLionProjects/DES_cryptography/main.cpp
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+

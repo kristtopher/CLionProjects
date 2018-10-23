@@ -1,0 +1,3 @@
+/home/kristtopher/CLionProjects/Tea_fir4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kristtopher/CLionProjects/Tea_fir4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kristtopher/CLionProjects/Tea_fir4/cmake-build-debug/CMakeFiles/Tea_fir4.dir

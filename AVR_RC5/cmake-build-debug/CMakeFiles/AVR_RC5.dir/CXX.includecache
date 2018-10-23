@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristtopher/CLionProjects/AVR_RC5/main.cpp
+iostream
+-
+stdint.h
+-
+stdlib.h
+-
+string.h
+-
+

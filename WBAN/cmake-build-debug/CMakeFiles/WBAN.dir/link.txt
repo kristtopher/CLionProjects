@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/WBAN.dir/main.cpp.o  -o WBAN 

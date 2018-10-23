@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tomcrypt_XTEA.dir/main.cpp.o  -o tomcrypt_XTEA 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cast5.dir/main.cpp.o  -o cast5 

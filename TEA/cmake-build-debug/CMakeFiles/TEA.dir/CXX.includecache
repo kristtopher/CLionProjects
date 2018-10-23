@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristtopher/CLionProjects/TEA/TEAENCRYPTOR.cpp
+TEAENCRYPTOR.h
+/home/kristtopher/CLionProjects/TEA/TEAENCRYPTOR.h
+
+/home/kristtopher/CLionProjects/TEA/TEAENCRYPTOR.h
+stdint.h
+-
+iostream
+-
+
+/home/kristtopher/CLionProjects/TEA/main.cpp
+TEAENCRYPTOR.h
+/home/kristtopher/CLionProjects/TEA/TEAENCRYPTOR.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/teafinal.dir/main.cpp.o  -o teafinal 

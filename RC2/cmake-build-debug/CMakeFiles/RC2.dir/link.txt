@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RC2.dir/main.cpp.o  -o RC2 

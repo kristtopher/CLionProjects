@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CLI.dir/main.cpp.o CMakeFiles/CLI.dir/Node.cpp.o  -o CLI 

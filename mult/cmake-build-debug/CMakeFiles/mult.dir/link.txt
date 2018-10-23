@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mult.dir/main.cpp.o  -o mult 

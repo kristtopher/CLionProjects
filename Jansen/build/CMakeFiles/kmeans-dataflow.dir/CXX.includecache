@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristtopher/CLionProjects/Jansen/source/CLI.cpp
+Node.h
+/home/kristtopher/CLionProjects/Jansen/source/Node.h
+
+/home/kristtopher/CLionProjects/Jansen/source/Node.cpp
+Node.h
+/home/kristtopher/CLionProjects/Jansen/source/Node.h
+
+/home/kristtopher/CLionProjects/Jansen/source/Node.h
+cinttypes
+-
+cstdio
+-
+cstdlib
+-
+vector
+-
+

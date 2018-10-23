@@ -1,0 +1,3 @@
+/home/kristtopher/CLionProjects/Jansen/build/CMakeFiles/rebuild_cache.dir
+/home/kristtopher/CLionProjects/Jansen/build/CMakeFiles/kmeans-dataflow.dir
+/home/kristtopher/CLionProjects/Jansen/build/CMakeFiles/edit_cache.dir

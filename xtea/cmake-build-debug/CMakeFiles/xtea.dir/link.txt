@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/xtea.dir/main.cpp.o  -o xtea 

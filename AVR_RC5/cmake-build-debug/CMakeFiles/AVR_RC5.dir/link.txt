@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AVR_RC5.dir/main.cpp.o  -o AVR_RC5 

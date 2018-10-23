@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/readBlue.dir/main.cpp.o  -o readBlue /usr/local/lib/libtomcrypt.a 

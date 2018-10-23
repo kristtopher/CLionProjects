@@ -1,0 +1,3 @@
+/home/kristtopher/CLionProjects/Tea8x128/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kristtopher/CLionProjects/Tea8x128/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kristtopher/CLionProjects/Tea8x128/cmake-build-debug/CMakeFiles/Tea8x128.dir

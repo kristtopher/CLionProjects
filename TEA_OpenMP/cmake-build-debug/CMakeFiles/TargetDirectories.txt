@@ -1,0 +1,3 @@
+/home/kristtopher/CLionProjects/TEA_OpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kristtopher/CLionProjects/TEA_OpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kristtopher/CLionProjects/TEA_OpenMP/cmake-build-debug/CMakeFiles/TEA_OpenMP.dir

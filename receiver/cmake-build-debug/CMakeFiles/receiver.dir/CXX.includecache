@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristtopher/CLionProjects/receiver/main.cpp
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+bluetooth/bluetooth.h
+-
+bluetooth/rfcomm.h
+-
+bluetooth/hci.h
+-
+bluetooth/hci_lib.h
+-
+bluetooth/sdp.h
+-
+bluetooth/sdp_lib.h
+-
+bluetooth/sco.h
+-
+sys/socket.h
+-
+tomcrypt.h
+-
+

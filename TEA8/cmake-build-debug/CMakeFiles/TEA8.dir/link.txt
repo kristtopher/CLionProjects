@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TEA8.dir/main.cpp.o  -o TEA8 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Kasumi.dir/main.cpp.o  -o Kasumi 

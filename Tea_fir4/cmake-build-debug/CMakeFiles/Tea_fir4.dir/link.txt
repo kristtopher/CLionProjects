@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tea_fir4.dir/main.cpp.o  -o Tea_fir4 

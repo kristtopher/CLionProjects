@@ -1,0 +1,1 @@
+/usr/bin/c++  -larmadillo -g   CMakeFiles/kmeansArmadillo.dir/main.cpp.o  -o kmeansArmadillo 

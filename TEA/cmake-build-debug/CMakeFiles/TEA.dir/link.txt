@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TEA.dir/main.cpp.o CMakeFiles/TEA.dir/TEAENCRYPTOR.cpp.o  -o TEA 

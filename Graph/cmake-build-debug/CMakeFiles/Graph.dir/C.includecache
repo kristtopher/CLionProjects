@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kristtopher/CLionProjects/Graph/binary_tree.c
+binary_tree.h
+/home/kristtopher/CLionProjects/Graph/binary_tree.h
+
+/home/kristtopher/CLionProjects/Graph/binary_tree.h
+
